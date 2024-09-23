@@ -31,7 +31,7 @@ Link: https://www.offsec.com/courses/pen-300/
 	- Day 6: Challenge Lab 6
 
 ## Day 1 Detailed - 23/09/2024
-- Duration: 10 Hours
+- Duration: 8h 45m 38s
 - Tasks:
 	- Complete OSEP PDF Chapters & Take Notes
 		- [x] Chapter 1
@@ -176,3 +176,8 @@ Link: https://www.offsec.com/courses/pen-300/
 		- [ ] Chapter 16 Exercises
 		- [ ] Chapter 17 Exercises
 		- [ ] Chapter 18 Exercises
+
+
+## Day 2 Detailed - 24/09/2024
+
+... TBD
