@@ -1,4 +1,3 @@
-
 ```
 
 			 ██████╗ ██╗  ██╗██╗                    ██████╗ ███████╗███████╗██████╗ 
@@ -24,8 +23,13 @@ This self-paced course culminates in a challenging exam, leading to the OffSec E
 Link: https://www.offsec.com/courses/pen-300/
 
 # Exam Day
-
+<h3 align="center">
 08-10-2024 (15 Days/Preparation)
+</h3>
+
+<p align="center">
+<img src="https://i.pinimg.com/1200x/81/5b/9a/815b9aa362e16a25397c22ae69d0340c.jpg">
+</p>
 
 # Related Resources
 - Official student Forum: https://forums.offensive-security.com
@@ -39,6 +43,11 @@ Just a Copyright .. ^^ No further resources
 - OSEP Review - What YOU Need to Know! (UPDATED EXAM): https://www.youtube.com/watch?v=R1apMwbVuDs
 
 ## Chapter 3 - Operating System and Programming Theory
+
+<p align="center">
+<img src="https://i.pinimg.com/1200x/a2/44/7f/a2447fdf9e47e826173f886059c616c6.jpg" height="400">
+</p>
+
 ### Chapter 3.1 - Programming
 - Bash: https://www.youtube.com/watch?v=smbeKPDVs2I
 - Python: https://www.youtube.com/playlist?list=PLBf0hzazHTGM_dncTqO9l-0zUQYP0nNPU
@@ -62,6 +71,11 @@ Just a Copyright .. ^^ No further resources
 	- https://learn.microsoft.com/fr-fr/windows/win32/winprog64/wow64-implementation-details
 
 ## Chapter 4 - Client Side Code Execution With Office
+
+<p align="center">
+<img src="https://i.pinimg.com/1200x/73/9a/8c/739a8cb90a00fc0ed83e3f2869486fcf.jpg" height="400">
+</p>
+
 - Staged vs. Non-staged Payloads: https://buffered.io/posts/staged-vs-stageless-handlers/
 - Droppers / Stagers: 
 	- https://en.wikipedia.org/wiki/Dropper_(malware)
@@ -103,7 +117,26 @@ Just a Copyright .. ^^ No further resources
 	- https://stackoverflow.com/questions/14263359/access-web-using-powershell-and-proxy
 	- https://cloudrun.co.uk/powershell/configuring-powershell-to-work-behind-a-proxy-server/
 	- https://medium.com/river-yang/powershell-working-behind-a-proxy-with-authentication-eb68a337f222
+## Chapter 5 - Client Side Code Execution with Windows Script Host
+
+<p align="center">
+<img src="https://i.pinimg.com/1200x/b7/04/2f/b7042ff8500c374b8208a101e54d3f85.jpg" height="400">
+</p>
+
+- JScript Execution: https://docs.microsoft.com/en-us/previous-versions/windows/desktop/indexsrv/running-a-jscript-query
+- JScript Basic Dropper: https://github.com/hlldz/SpookFlare
+- HTA, VBA, JScript, CScript Payload Creation and Obfuscation:
+	- https://github.com/tyranid/DotNetToJScript
+	- https://github.com/med0x2e/GadgetToJScript
+- SharpShooter:
+	- https://github.com/mdsecactivebreach/SharpShooter
+
 # Study Plan
+
+<p align="center">
+<img src="https://i.pinimg.com/1200x/d0/5f/b2/d05fb2455b4bd9e51a2c30996b0cf419.jpg" height="400">
+</p>
+
 - Start: 23-09-2024
 - End: 08-10-2024
 - Duration: 15 Days
@@ -272,7 +305,7 @@ Just a Copyright .. ^^ No further resources
 		- [x] Chapter 2
 		- [x] Chapter 3
 		- [x] Chapter 4
-		- [ ] Chapter 5
+		- [x] Chapter 5
 	- Complete Challenge Labs
 		- [ ] Challenge Lab 1
 		- [ ] Challenge Lab 2
