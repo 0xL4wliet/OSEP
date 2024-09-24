@@ -312,5 +312,5 @@ Just a Copyright .. ^^ No further resources
 		- [x] Chapter 4
 		- [x] Chapter 5
 	- Complete Challenge Labs
-		- [ ] Challenge Lab 1
+		- [x] Challenge Lab 1
 		- [ ] Challenge Lab 2
