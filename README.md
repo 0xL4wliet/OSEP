@@ -303,7 +303,7 @@ Just a Copyright .. ^^ No further resources
 
 ## Day 2 Detailed - 24/09/2024
 
-- Duration: TBD ...
+- Duration: 7h 45m in Total
 - Tasks:
 	- Revise Chapters 01-05 (+Alternative resources):
 		- [x] Chapter 1
