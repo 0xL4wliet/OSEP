@@ -1,6 +1,3 @@
-
-# PEN-300: Advanced Evasion Techniques and Breaching Defenses
-
 ```
 
 				 ██████╗ ██╗  ██╗██╗                    ██████╗ ███████╗███████╗██████╗ 
@@ -13,6 +10,9 @@
 						https://x.com/0xL4wliet (@0xL4wliet)
 
 ```
+# PEN-300: Advanced Evasion Techniques and Breaching Defenses
+
+![[file-20240921173824202.png|200]]
 
 Building on the skills acquired in PEN-200, OffSec’s PEN-300 course explores advanced penetration testing techniques against hardened targets. Learners gain hands-on experience bypassing security defenses and crafting custom exploits in real-world scenarios, enhancing their expertise in ethical hacking and vulnerability assessment.
 
@@ -28,6 +28,78 @@ Link: https://www.offsec.com/courses/pen-300/
 - Official student Forum: https://forums.offensive-security.com
 - Live Support & Discord: https://help.offsec.com/hc/en-us
 - Exam Guide: https://help.offsec.com/hc/en-us/articles/360050293792-OSEP-Exam-Guide
+- *This repo is so influenced by r0r0x-xx & nullg0re*
+## Chapter 1 - Copyright
+Just a Copyright .. ^^ No further resources
+## Chapter 2 - General Course Information
+- OSEP - Offensive Security Experienced Penetration Tester (REVIEW): https://www.youtube.com/watch?v=iUPyiJbN4l4&t=128s
+- OSEP Review - What YOU Need to Know! (UPDATED EXAM): https://www.youtube.com/watch?v=R1apMwbVuDs
+
+## Chapter 3 - Operating System and Programming Theory
+### Chapter 3.1 - Programming
+- Bash: https://www.youtube.com/watch?v=smbeKPDVs2I
+- Python: https://www.youtube.com/playlist?list=PLBf0hzazHTGM_dncTqO9l-0zUQYP0nNPU
+- PowerShell: https://resources.infosecinstitute.com/topic/powershell-for-pentesters-part-1-introduction-to-powershell-and-cmdlets/
+- C#: 
+	- https://www.youtube.com/watch?v=GhQdlIFylQ8
+	- https://github.com/mvelazc0/defcon27_csharp_workshop
+	- https://www.tutorialspoint.com/csharp/index.htm
+- Introduction to VBA: https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office
+
+### Chapter 3.2 - System
+- Win32 API’s:
+	- https://posts.specterops.io/offensive-p-invoke-leveraging-the-win32-api-from-managed-code-7eef4fdef16d
+	- https://rastamouse.me/blog/process-injection-dinvoke/
+	- https://www.pinvoke.net/
+- Windows Registry:
+	- https://en.wikipedia.org/wiki/Windows_Registry
+	- https://www.lifewire.com/windows-registry-2625992
+- WoW64:
+	- https://en.wikipedia.org/wiki/WoW64
+	- https://learn.microsoft.com/fr-fr/windows/win32/winprog64/wow64-implementation-details
+
+## Chapter 4 - Client Side Code Execution With Office
+- Staged vs. Non-staged Payloads: https://buffered.io/posts/staged-vs-stageless-handlers/
+- Droppers / Stagers: 
+	- https://en.wikipedia.org/wiki/Dropper_(malware)
+	- https://rastamouse.me/blog/asb-bypass-pt2/ - Use Wayback Machine (2021)
+- HTML Smuggling (Not HTTP Request Smuggling):
+	- https://outflank.nl/blog/2018/08/14/html-smuggling-explained/
+	- https://github.com/Arno0x/EmbedInHTML
+- Phishing With Microsoft Office
+	- https://digitalguardian.com/blog/what-macro-malware
+	- https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/macro-malware
+	- https://support.microsoft.com/en-us/office/automatically-run-a-macro-when-opening-a-workbook-1e55959b-e077-4c88-a696-c3017600db44
+	- https://stackoverflow.com/questions/51296291/auto-open-sub-vba/51296480
+- Phishing Pretexts:
+	- https://github.com/L4bF0x/PhishingPretexts
+- Calling Win32 APIs from VBA:
+	- https://www.aeternus.sg/how-to-use-windows-api-in-vba/ - *Use Wayback Machine (2020)*
+	- https://renenyffenegger.ch/notes/development/languages/VBA/Win-API/index
+	- https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/com-interop/walkthrough-calling-windows-apis
+- VBA Shellcode Runners:
+	- https://www.scriptjunkie.us/2012/01/direct-shellcode-execution-in-ms-office-macros/
+	- https://www.bitdam.com/2018/05/22/propertybomb-an-old-new-technique-for-arbitrary-code-execution-in-vba-macro/ - *Use Wayback Machine (2020)*
+	- https://github.com/infosecn1nja/MaliciousMacroMSBuild - *Doesn't work so well (This is OLD VERSION) !!*
+- PowerShell Shellcode Runner:
+	- https://devblogs.microsoft.com/scripting/use-powershell-to-interact-with-the-windows-api-part-1/
+	- https://www.raydbg.com/2017/Call-Native-Win32-API-in-PowerShell/
+	- https://github.com/PowerShellMafia/PowerSploit/blob/master/CodeExecution/Invoke-Shellcode.ps1
+	- https://powersploit.readthedocs.io/en/latest/CodeExecution/Invoke-ReflectivePEInjection/
+	- https://stackoverflow.com/questions/63593930/how-to-call-a-win32-api-function-from-powershell
+	- https://www.defcon.org/images/defcon-21/dc-21-presentations/Bialek/DEFCON-21-Bialek-PowerPwning-Post-Exploiting-by-Overpowering-Powershell.pdf
+- PowerShell in Memory:
+	- https://isc.sans.edu/forums/diary/Fileless+Malicious+PowerShell+Sample/23081/
+	- https://github.com/PowerShell/PowerShell/blob/master/src/Microsoft.PowerShell.CoreCLR.Eventing/DotNetCode/Eventing/UnsafeNativeMethods.cs
+- DelegateType Reflection:
+	- https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/
+	- https://learn.microsoft.com/en-us/dotnet/fundamentals/reflection/how-to-hook-up-a-delegate-using-reflection
+	- https://www.powershellgallery.com/packages/poke/1.0.0.2/Content/delegate.ps1
+- Proxy-Aware PowerShell Communications:
+	- http://woshub.com/using-powershell-behind-a-proxy/
+	- https://stackoverflow.com/questions/14263359/access-web-using-powershell-and-proxy
+	- https://cloudrun.co.uk/powershell/configuring-powershell-to-work-behind-a-proxy-server/
+	- https://medium.com/river-yang/powershell-working-behind-a-proxy-with-authentication-eb68a337f222
 # Study Plan
 - Start: 23-09-2024
 - End: 08-10-2024
@@ -190,4 +262,14 @@ Link: https://www.offsec.com/courses/pen-300/
 
 ## Day 2 Detailed - 24/09/2024
 
-... TBD
+- Duration: TBD ...
+- Tasks:
+	- Revise Chapters 01-05 (+Alternative resources):
+		- [x] Chapter 1
+		- [x] Chapter 2
+		- [x] Chapter 3
+		- [x] Chapter 4
+		- [ ] Chapter 5
+	- Complete Challenge Labs
+		- [ ] Challenge Lab 1
+		- [ ] Challenge Lab 2
