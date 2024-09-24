@@ -1,8 +1,18 @@
+
 # PEN-300: Advanced Evasion Techniques and Breaching Defenses
 
-![OSEP](https://www.offsec.com/app/uploads/2023/01/PEN-300-Featured.png)
+```
 
+				 ██████╗ ██╗  ██╗██╗                    ██████╗ ███████╗███████╗██████╗ 
+				██╔═████╗╚██╗██╔╝██║                   ██╔═══██╗██╔════╝██╔════╝██╔══██╗
+				██║██╔██║ ╚███╔╝ ██║         █████╗    ██║   ██║███████╗█████╗  ██████╔╝
+				████╔╝██║ ██╔██╗ ██║         ╚════╝    ██║   ██║╚════██║██╔══╝  ██╔═══╝ 
+				╚██████╔╝██╔╝ ██╗███████╗              ╚██████╔╝███████║███████╗██║     
+				 ╚═════╝ ╚═╝  ╚═╝╚══════╝               ╚═════╝ ╚══════╝╚══════╝╚═╝
 
+						https://x.com/0xL4wliet (@0xL4wliet)
+
+```
 
 Building on the skills acquired in PEN-200, OffSec’s PEN-300 course explores advanced penetration testing techniques against hardened targets. Learners gain hands-on experience bypassing security defenses and crafting custom exploits in real-world scenarios, enhancing their expertise in ethical hacking and vulnerability assessment.
 
