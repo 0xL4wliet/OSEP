@@ -12,11 +12,13 @@
 ```
 # PEN-300: Advanced Evasion Techniques and Breaching Defenses
 
-![[file-20240921173824202.png|200]]
+<img src="https://images.credly.com/images/ebefd276-7f47-4aa8-b1d8-4a13636e4851/twitter_thumb_201604_image.png" width="200" height="200" align="left">
 
 Building on the skills acquired in PEN-200, OffSec’s PEN-300 course explores advanced penetration testing techniques against hardened targets. Learners gain hands-on experience bypassing security defenses and crafting custom exploits in real-world scenarios, enhancing their expertise in ethical hacking and vulnerability assessment.
 
 This self-paced course culminates in a challenging exam, leading to the OffSec Experienced Penetration Tester (OSEP) certification. Achieving the OSEP certification distinguishes professionals with advanced penetration testing skills, making them highly sought-after experts in securing organizations from sophisticated threats.
+
+# Official Link
 
 Link: https://www.offsec.com/courses/pen-300/
 
