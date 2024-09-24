@@ -38,6 +38,11 @@ Link: https://www.offsec.com/courses/pen-300/
 - *This repo is so influenced by r0r0x-xx & nullg0re*
 ## Chapter 1 - Copyright
 Just a Copyright .. ^^ No further resources
+
+<p align="center">
+<img src="https://i.pinimg.com/564x/63/53/2c/63532c21e7e730286a6c673bdfb3192b.jpg" >
+</p>
+
 ## Chapter 2 - General Course Information
 - OSEP - Offensive Security Experienced Penetration Tester (REVIEW): https://www.youtube.com/watch?v=iUPyiJbN4l4&t=128s
 - OSEP Review - What YOU Need to Know! (UPDATED EXAM): https://www.youtube.com/watch?v=R1apMwbVuDs
