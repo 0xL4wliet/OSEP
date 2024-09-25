@@ -314,3 +314,9 @@ Just a Copyright .. ^^ No further resources
 	- Complete Challenge Labs
 		- [x] Challenge Lab 1
 		- [ ] Challenge Lab 2
+
+## Day 3 Detailed - 25/09/2024
+- Duration: 4h
+- Tasks:
+	- Complete Challenge Labs
+		- [x] Challenge Lab 1
