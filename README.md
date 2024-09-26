@@ -193,6 +193,25 @@ Just a Copyright .. ^^ No further resources
 	- https://github.com/api0cradle/UltimateAppLockerByPassList
 	- https://github.com/0xVIC/myAPPLockerBypassSummary
 
+## Chapter 9 - Bypassing Network Filters
+
+<p align="center">
+<img src="https://i.pinimg.com/1200x/c5/70/33/c57033fa3f5dfdb869154de7f91ecae8.jpg" height="400">
+</p>
+
+- Domain Fronting:
+	- https://digi.ninja/blog/domain_fronting.php
+	- https://attack.mitre.org/techniques/T1090/004/
+	- https://medium.com/@malcomvetter/simplifying-domain-fronting-8d23dcb694a0
+- DNS Tunneling:
+	- https://www.paloaltonetworks.com/cyberpedia/what-is-dns-tunneling
+	- https://unit42.paloaltonetworks.com/dns-tunneling-how-dns-can-be-abused-by-malicious-actors/
+## Chapter 11 - Linux Post-Exploitation
+
+<p align="center">
+<img src="https://i.pinimg.com/1200x/62/96/82/6296820e3415770b2a8c27bd466ba8ef.jpg" height="400">
+</p>
+
 # Study Plan
 
 <p align="center">
@@ -378,7 +397,7 @@ Just a Copyright .. ^^ No further resources
 	- Complete Challenge Labs
 		- [x] Challenge Lab 1
 
-## Day 3 Detailed - 25/09/2024
+## Day 4 Detailed - 25/09/2024
 - Duration: TBD ...
 - Tasks:
 	- [ ] Revise Chapters 06-11 (+Alternative resources)
@@ -386,7 +405,7 @@ Just a Copyright .. ^^ No further resources
 		- [x] Chapter 7
 		- [x] Chapter 8
 		- [x] Chapter 9
-		- [ ] Chapter 10
+		- [x] Chapter 10
 		- [ ] Chapter 11
 	- [ ] Revise Chapters 12-17 (+Alternative resources)
 		- [ ] Chapter 12
