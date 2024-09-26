@@ -224,6 +224,17 @@ Just a Copyright .. ^^ No further resources
 <img src="https://i.pinimg.com/1200x/69/f3/64/69f364f2fcc6ce78e3aed83b73f1f18c.jpg" height="400">
 </p>
 
+- Kiosk Breakouts / Attacks:
+	- https://www.trustedsec.com/blog/kioskpos-breakout-keys-in-windows/
+	- https://sra.io/blog/sitekiosk-breakout/
+	- https://www.boiteaklou.fr/Abusing-Shared-Libraries.html
+	- https://www.engetsu-consulting.com/blog/kiosk-breakout-windows
+## Chapter 13 - Windows Credentials
+
+<p align="center">
+<img src="https://i.pinimg.com/1200x/1b/57/4c/1b574c579236a84246958ffadb9fcb43.jpg" height="400">
+</p>
+
 # Study Plan
 
 <p align="center">
@@ -420,7 +431,7 @@ Just a Copyright .. ^^ No further resources
 		- [x] Chapter 10
 		- [x] Chapter 11
 	- [ ] Revise Chapters 12-17 (+Alternative resources)
-		- [ ] Chapter 12
+		- [x] Chapter 12
 		- [ ] Chapter 13
 		- [ ] Chapter 14
 		- [ ] Chapter 15
