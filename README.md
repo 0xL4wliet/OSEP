@@ -162,6 +162,17 @@ Just a Copyright .. ^^ No further resources
 	- https://github.com/caesartcs/ProcessHollowing
 	- https://github.com/m0n0ph1/Process-Hollowing
 	- https://trustedsec.com/blog/the-nightmare-of-proc-hollows-exe
+
+## Chapter 7 - Introduction to Antivirus Evasion
+
+<p align="center">
+<img src="https://i.pinimg.com/1200x/e1/7c/6e/e17c6e4b331020e549606494d87c7446.jpg" height="400">
+</p>
+
+- Metasploit Encryptors: https://blog.rapid7.com/2019/11/21/metasploit-shellcode-grows-up-encrypted-and-authenticated-c-shells/
+- .NET/C# AES Payload Encryption:
+	- https://sevrosecurity.com/2019/05/25/bypass-windows-defender-with-a-simple-shell-loader/ - *User WayBack Machine*
+	- https://github.com/cribdragg3r/Simple-Loader
 # Study Plan
 
 <p align="center">
@@ -352,7 +363,7 @@ Just a Copyright .. ^^ No further resources
 - Tasks:
 	- [ ] Revise Chapters 06-11 (+Alternative resources)
 		- [x] Chapter 6
-		- [ ] Chapter 7
+		- [x] Chapter 7
 		- [ ] Chapter 8
 		- [ ] Chapter 9
 		- [ ] Chapter 10
