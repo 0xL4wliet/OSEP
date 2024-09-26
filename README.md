@@ -244,10 +244,18 @@ Just a Copyright .. ^^ No further resources
 		- https://github.com/kfosaaen/Get-LAPSPasswords
 		- https://blog.netspi.com/running-laps-around-cleartext-passwords/
 - Access Token: https://foxglovesecurity.com/2017/08/25/abusing-token-privileges-for-windows-local-privilege-escalation/
-# Study Plan
+
+## Chapter 14 - Windows Lateral Movement
 
 <p align="center">
 <img src="https://i.pinimg.com/1200x/d0/5f/b2/d05fb2455b4bd9e51a2c30996b0cf419.jpg" height="400">
+</p>
+
+- 
+# Study Plan
+
+<p align="center">
+<img src="https://gamesmag.cz/wp-content/uploads/2022/03/d5ddc7b0bcdeaf33006afabc6588e85e.jpeg" height="400">
 </p>
 
 - Start: 23-09-2024
