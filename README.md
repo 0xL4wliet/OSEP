@@ -229,12 +229,21 @@ Just a Copyright .. ^^ No further resources
 	- https://sra.io/blog/sitekiosk-breakout/
 	- https://www.boiteaklou.fr/Abusing-Shared-Libraries.html
 	- https://www.engetsu-consulting.com/blog/kiosk-breakout-windows
+	- https://ppn.snovvcrash.rocks/pentest/infrastructure/kiosk-breakout
 ## Chapter 13 - Windows Credentials
 
 <p align="center">
 <img src="https://i.pinimg.com/1200x/1b/57/4c/1b574c579236a84246958ffadb9fcb43.jpg" height="400">
 </p>
 
+- Local Windows Credentials:
+	-  SAM Dump: https://medium.com/@sanjumalhotra26/dumping-credentials-from-sam-file-using-mimikatz-and-cracking-with-john-the-ripper-and-hashcat-ce5bbf2f4f5a
+	- Hardening the Local Admin Account (LAPS):
+		- https://rastamouse.me/blog/laps-pt1/ - *Use WayBack Machine*
+		- https://rastamouse.me/blog/laps-pt2/ - *Use WayBack Machine*
+		- https://github.com/kfosaaen/Get-LAPSPasswords
+		- https://blog.netspi.com/running-laps-around-cleartext-passwords/
+- Access Token: https://foxglovesecurity.com/2017/08/25/abusing-token-privileges-for-windows-local-privilege-escalation/
 # Study Plan
 
 <p align="center">
@@ -432,7 +441,7 @@ Just a Copyright .. ^^ No further resources
 		- [x] Chapter 11
 	- [ ] Revise Chapters 12-17 (+Alternative resources)
 		- [x] Chapter 12
-		- [ ] Chapter 13
+		- [x] Chapter 13
 		- [ ] Chapter 14
 		- [ ] Chapter 15
 		- [ ] Chapter 16
