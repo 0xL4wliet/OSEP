@@ -212,6 +212,18 @@ Just a Copyright .. ^^ No further resources
 <img src="https://i.pinimg.com/1200x/62/96/82/6296820e3415770b2a8c27bd466ba8ef.jpg" height="400">
 </p>
 
+- Antiscan.me: https://antiscan.me/
+- Shared DLL Hijacking: 
+	- https://www.contextis.com/en/blog/linux-privilege-escalation-via-dynamically-linked-shared-object-library
+	- https://www.boiteaklou.fr/Abusing-Shared-Libraries.html
+	- https://sumit-ghosh.com/articles/hijacking-library-functions-code-injection-ld-preload/
+- Command List: https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
+## Chapter 12 - Kiosk Breakout
+
+<p align="center">
+<img src="https://i.pinimg.com/1200x/69/f3/64/69f364f2fcc6ce78e3aed83b73f1f18c.jpg" height="400">
+</p>
+
 # Study Plan
 
 <p align="center">
@@ -400,13 +412,13 @@ Just a Copyright .. ^^ No further resources
 ## Day 4 Detailed - 25/09/2024
 - Duration: TBD ...
 - Tasks:
-	- [ ] Revise Chapters 06-11 (+Alternative resources)
+	- [x] Revise Chapters 06-11 (+Alternative resources)
 		- [x] Chapter 6
 		- [x] Chapter 7
 		- [x] Chapter 8
 		- [x] Chapter 9
 		- [x] Chapter 10
-		- [ ] Chapter 11
+		- [x] Chapter 11
 	- [ ] Revise Chapters 12-17 (+Alternative resources)
 		- [ ] Chapter 12
 		- [ ] Chapter 13
