@@ -136,6 +136,32 @@ Just a Copyright .. ^^ No further resources
 - SharpShooter:
 	- https://github.com/mdsecactivebreach/SharpShooter
 
+## Chapter 6 - Process Injection and Migration
+
+<p align="center">
+<img src="https://i.pinimg.com/736x/7e/54/48/7e544881666d8bc94423a135f748f9ae.jpg" height="400">
+</p>
+
+- Process Injection:
+	- https://github.com/3xpl01tc0d3r/ProcessInjection
+	- https://github.com/secrary/InjectProc
+	- https://rastamouse.me/blog/process-injection-dinvoke/ - *User WayBack Machine*
+	- https://www.ired.team/offensive-security/defense-evasion/parent-process-id-ppid-spoofing
+- DLL Injection
+	- https://en.wikipedia.org/wiki/DLL_injection#:~:text=In%20computer%20programming%2C%20DLL%20injection,did%20not%20anticipate%20or%20intend
+	- https://medium.com/bug-bounty-hunting/dll-injection-attacks-in-a-nutshell-71bc84ac59bd
+	- https://www.youtube.com/watch?v=yKoD5Oy8CKQ
+	- https://github.com/milkdevil/injectAllTheThings
+	- http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html  - *User WayBack Machine*
+- Reflective DLL Injection
+	- https://github.com/stephenfewer/ReflectiveDLLInjection
+	- https://clymb3r.wordpress.com/2013/04/06/reflective-dll-injection-with-powershell/
+	- https://github.com/PowerShellMafia/PowerSploit/blob/master/CodeExecution/Invoke-ReflectivePEInjection.ps1
+- Process Hollowing
+	- https://gist.github.com/smgorelik/9a80565d44178771abf1e4da4e2a0e75
+	- https://github.com/caesartcs/ProcessHollowing
+	- https://github.com/m0n0ph1/Process-Hollowing
+	- https://trustedsec.com/blog/the-nightmare-of-proc-hollows-exe
 # Study Plan
 
 <p align="center">
@@ -320,3 +346,25 @@ Just a Copyright .. ^^ No further resources
 - Tasks:
 	- Complete Challenge Labs
 		- [x] Challenge Lab 1
+
+## Day 3 Detailed - 25/09/2024
+- Duration: TBD ...
+- Tasks:
+	- [ ] Revise Chapters 06-11 (+Alternative resources)
+		- [x] Chapter 6
+		- [ ] Chapter 7
+		- [ ] Chapter 8
+		- [ ] Chapter 9
+		- [ ] Chapter 10
+		- [ ] Chapter 11
+	- [ ] Revise Chapters 12-17 (+Alternative resources)
+		- [ ] Chapter 12
+		- [ ] Chapter 13
+		- [ ] Chapter 14
+		- [ ] Chapter 15
+		- [ ] Chapter 16
+		- [ ] Chapter 17
+	- [ ] Complete Challenge Labs
+		- [ ] Challenge Lab 2
+		- [ ] Challenge Lab 3
+		- [ ] Challenge Lab 4
