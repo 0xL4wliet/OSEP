@@ -173,6 +173,26 @@ Just a Copyright .. ^^ No further resources
 - .NET/C# AES Payload Encryption:
 	- https://sevrosecurity.com/2019/05/25/bypass-windows-defender-with-a-simple-shell-loader/ - *User WayBack Machine*
 	- https://github.com/cribdragg3r/Simple-Loader
+
+## Chapter 8 - Advanced Antivirus Evasion
+- Antimalware Scanning Interface (AMSI):
+	- https://rastamouse.me/2018/10/amsiscanbuffer-bypass---part-1/ - *User WayBack Machine*
+	- https://rastamouse.me/blog/asb-bypass-pt2/ - *User WayBack Machine*
+	- https://rastamouse.me/blog/asb-bypass-pt3/ - *User WayBack Machine*
+	- https://rastamouse.me/blog/asb-bypass-pt4/ - *User WayBack Machine*
+- AntiScan.me: https://antiscan.me/
+
+## Chapter 9 - Application Whitelisting
+
+<p align="center">
+<img src="https://i.pinimg.com/1200x/f6/a6/65/f6a665ab25094f7dc689377be53dcb76.jpg" height="400">
+</p>
+
+- Theory: https://www.techtarget.com/searchsecurity/definition/application-whitelisting#:~:text=Application%20whitelisting%20is%20the%20practice,networks%20from%20potentially%20harmful%20applications
+- Bypass:
+	- https://github.com/api0cradle/UltimateAppLockerByPassList
+	- https://github.com/0xVIC/myAPPLockerBypassSummary
+
 # Study Plan
 
 <p align="center">
@@ -364,8 +384,8 @@ Just a Copyright .. ^^ No further resources
 	- [ ] Revise Chapters 06-11 (+Alternative resources)
 		- [x] Chapter 6
 		- [x] Chapter 7
-		- [ ] Chapter 8
-		- [ ] Chapter 9
+		- [x] Chapter 8
+		- [x] Chapter 9
 		- [ ] Chapter 10
 		- [ ] Chapter 11
 	- [ ] Revise Chapters 12-17 (+Alternative resources)
