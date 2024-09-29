@@ -471,14 +471,14 @@ Just a Copyright .. ^^ No further resources
 > Canceled: Have work to complete !
 
 ## Day 8 Detailed - 29/09/2024
-- Duration: 3h 30m
+- Duration: 13h 54m 39s
 - Tasks:
 	- [ ] Revise Chapters 14-17 (+Alternative resources)
-		- [ ] Chapter 14
-		- [ ] Chapter 15
-		- [ ] Chapter 16
+		- [x] Chapter 14
+		- [x] Chapter 15
+		- [x] Chapter 16
 		- [ ] Chapter 17
 	- [ ] Complete Challenge Labs
-		- [ ] Challenge Lab 2
+		- [x] Challenge Lab 2
 		- [ ] Challenge Lab 3
 		- [ ] Challenge Lab 4
