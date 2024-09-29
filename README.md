@@ -264,10 +264,10 @@ Just a Copyright .. ^^ No further resources
 - Plan:
 	- Day 1: Revise All PDF & Take Note + Challenge Lab 1
 	- Day 2: Revise Chapters 01-05 (+Alternative resources) + Challenge Lab 2
-	- Day 3: Revise Chapters 06-11 (+Alternative resources) + Challenge Lab 3
-	- Day 4: Revise Chapters 12-17 (+Alternative resources) + Challenge Lab 4
-	- Day 5: Revise Chapters 18-19 (+Alternative resources) + Challenge Lab 5
-	- Day 6: Challenge Lab 6
+	- Day 3: Revise Chapters 06-11 (+Alternative resources) + Challenge Lab 3 => Doesn’t gone well ( Had A lot of Work :( !) 
+	- Day 4: Revise Chapters 06-13 (+Alternative resources) + Challenge Lab 4
+	- Day 5: Revise Chapters 14-17 (+Alternative resources) + Challenge Lab 5
+	- Day 6: Revise Chapters 18-19 (+Alternative resources) Challenge Lab 6
 
 ## Day 1 Detailed - 23/09/2024
 - Duration: 8h 45m 38s
@@ -437,19 +437,43 @@ Just a Copyright .. ^^ No further resources
 	- Complete Challenge Labs
 		- [x] Challenge Lab 1
 
-## Day 4 Detailed - 25/09/2024
-- Duration: TBD ...
+## Day 4 Detailed - 26/09/2024
+- Duration: 8h 25m 18s
 - Tasks:
-	- [x] Revise Chapters 06-11 (+Alternative resources)
+	- [x] Revise Chapters 06-13 (+Alternative resources)
 		- [x] Chapter 6
 		- [x] Chapter 7
 		- [x] Chapter 8
 		- [x] Chapter 9
 		- [x] Chapter 10
 		- [x] Chapter 11
-	- [ ] Revise Chapters 12-17 (+Alternative resources)
 		- [x] Chapter 12
 		- [x] Chapter 13
+	- [ ] Complete Challenge Labs
+		- [x] Challenge Lab 2
+		- [ ] Challenge Lab 3
+		- [ ] Challenge Lab 4
+
+## Day 5 Detailed - 27/09/2024
+- Duration: 3h 30m
+- Tasks:
+	- [ ] Revise Chapters 14-17 (+Alternative resources)
+		- [x] Chapter 14 (Half of this chapter)
+		- [ ] Chapter 15
+		- [ ] Chapter 16
+		- [ ] Chapter 17
+	- [ ] Complete Challenge Labs
+		- [ ] Challenge Lab 2
+		- [ ] Challenge Lab 3
+		- [ ] Challenge Lab 4
+
+## Day 6 + 7 - 27-28/09/2024: Canceled
+> Canceled: Have work to complete !
+
+## Day 8 Detailed - 29/09/2024
+- Duration: 3h 30m
+- Tasks:
+	- [ ] Revise Chapters 14-17 (+Alternative resources)
 		- [ ] Chapter 14
 		- [ ] Chapter 15
 		- [ ] Chapter 16
